@@ -19,6 +19,8 @@ I'm a **Frontend Developer** who loves crafting beautiful, responsive, and perfo
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" />
+  
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="80" alt="GitHub Logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" />
