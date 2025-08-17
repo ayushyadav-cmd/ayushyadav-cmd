@@ -40,6 +40,11 @@ I'm a **Frontend Developer** who loves crafting beautiful, responsive, and perfo
 
 ---
 
+
+
+
+
+
 ## 💬 Fun Fact
 
 > Sometimes, I debug for 4 hours just to fix it in 4 seconds 😄
