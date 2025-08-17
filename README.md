@@ -31,8 +31,6 @@ I'm a **Frontend Developer** who loves crafting beautiful, responsive, and perfo
 
 
 
-
-
 ## 🧠 Currently Learning
 
 - ⚛️ React Performance Optimization
