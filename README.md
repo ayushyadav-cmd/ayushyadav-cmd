@@ -1,42 +1,65 @@
 
-# 👋 Hi, I'm Ayush Yadav
+# Hi, I'm Ayush 👋
 
-I'm a **Frontend Developer** who loves crafting beautiful, responsive, and performant web interfaces. I’m passionate about turning ideas into real-world products using modern tools and technologies. Currently, I'm focused on building strong frontend systems and mastering DSA for better problem-solving.
+💻 Software Developer | 🔐 Cybersecurity & DevSecOps Enthusiast
 
+- Exploring Cybersecurity, DevSecOps & Cloud Security.
+- Working with Linux, Docker, AWS and security tools.
+- Interested in automation, infrastructure and secure development.
+- Always learning, building and experimenting.
+
+**Code. Secure. Automate. Repeat.**
 ---
 
 
 ## 🛠️  Tech Stack
 
 
-<p align="center" size=100>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" alt="Tailwind CSS Logo" />
+### 💻 Technologies & Tools
 
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" />
 
+  <!-- Development Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" />
-  
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" />
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="80" alt="GitHub Logo" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" />
+  <!-- Cybersecurity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" height="50" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity" height="50" />
+  <img src="https://img.shields.io/badge/Semgrep-3EAAAF?style=flat-square&logo=semgrep" height="50" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp" height="50" />
 </p>
-
----
 
 
 
 ## 🧠 Currently Learning
 
-- ⚛️ React Performance Optimization
-- ⚙️ System Design Basics
-- 🧮 Data Structures & Algorithms (DSA)
-- 🧪 Testing (Jest, RTL)
+- 🔐 Cybersecurity Fundamentals & Security Monitoring
+- 🐧 Linux Administration & Bash Scripting
+- 🐳 Docker, Kubernetes & Container Security
+- ☁️ AWS & Cloud Infrastructure
+- ⚙️ DevSecOps & CI/CD Automation
+- 🛡️ Vulnerability Assessment & Security Scanning
+- 🔍 Network Traffic Analysis (Wireshark, tcpdump)
+- ☕ Java Programming & Problem Solving
 
 ---
 
